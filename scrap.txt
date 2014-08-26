@@ -1,0 +1,61 @@
+<p><b>Technical Project Manager</b> 
+			<br>Evan Ma 
+			<br>Civil Engineering
+			</p>
+			<p><b>Logistics Project Manager</b> 
+			<br>Matthew Innocente 
+			<br>Civil Engineering
+			</p>
+			<p><b>Mix Master</b> 
+			<br>Nigel Fung 
+			<br>Civil Engineering
+			</p>
+			<p><b>Casting Manager</b> 
+			<br>Bo Wen Wen 
+			<br>Civil Engineering
+			</p>
+			<p><b>Hull Manager</b>
+			<br>Marko Spudic 
+			<br>Civil Engineering
+			</p>
+			<p><b>Theme Director</b>
+			<br>Ertiana Rrokaj 
+			<br>Civil Engineering
+			</p>
+			<p><b>Co-Treasurer</b> 
+			<br>Brittany Tyler 
+			<br>Mechanical Engineering
+			</p>
+			<p><b>Co-Treasurer</b> 
+			<br>Qazah Shehzad 
+			<br>Mechanical Engineering
+			</p>
+			<p><b>Finishing Manager</b>
+			<br>Tneshia Pages 
+			<br>Architectural Design
+			</p>
+			<p><b>Co-Construction Manager </b>
+			<br>Jason Yee 
+			<br>Civil Engineering
+			</p>
+			<p><b>Co-Construction Manager </b>
+			<br>Cole Wheeler 
+			<br>Industrial Engineering
+			</p>
+			<p><b>Paddling Coach and Webmaster</b>
+			<br>Gordon Tang
+			<br>Industrial Engineering
+			</p>
+			<p><b>Sponsorship Manager </b>
+			<br>Mathew Wu 
+			<br>Chemical Engineering
+			</p>
+			<p><b>Financial Consultant</b>
+			<br>Lina Yu 
+			<br>Nursing
+			</p>
+			<p><b>Technical Associate / Secretly Spiderman</b>
+			<br>Alex Szot 
+			<br>Civil Engineering
+			</p>
+			</article>
